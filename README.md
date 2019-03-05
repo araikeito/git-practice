@@ -1,1 +1,6 @@
 # git-practice
+hatamotohiro
+
+
+
+#arai
